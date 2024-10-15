@@ -9,6 +9,7 @@ firebase-debug.*.log*
 
 # Firebase cache
 .firebase/
+backend/firebase_creds.json
 
 # Firebase config
 
